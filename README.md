@@ -5,5 +5,5 @@
 | **w Javie**   | **w Ruby**    | **_do czego?_**                                                        |
 | ------------- |:-------------:| ----------------------------------------------------------------------:|
 | PMD           | Churn         | Sprawdzenie ile razy dana metoda się zmieniła,ABC complexity,duplikacje|
-| Checkstyle    | Robocop       | Poprawa stylu, formatowanie kodu                                       |
+| SonarQube     | Robocop       | Poprawa stylu, formatowanie kodu                                       |
 | Cloc          | Cloc          | Zliczanie, linijek, komentarzy                                         |
