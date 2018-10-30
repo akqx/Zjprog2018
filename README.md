@@ -11,6 +11,7 @@
 
 
 ## 3. Wyszukujemy w kodzie fragmenty WTF
+```
 	public static void main(String[] args) {
 		int arr[] = { 3, 60, 35, 2, 45, 320, 5 }; // Array designators "[]" should be on the type, not the variable
 		// porawione na int [] arr 
@@ -32,3 +33,4 @@
 		}
 	}
 
+```
